@@ -9,7 +9,10 @@ public class calculator {
     }
 
     public static int divide(int a, int b) {
-        return 0;
+        if(b==0){
+            return 0;
+        }
+        return a/b;
     }
 
     public static void main(String[] args) {
