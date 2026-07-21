@@ -1,0 +1,18 @@
+public class calculator {
+
+    public static int add(int a, int b) {
+        return 0;
+    }
+
+    public static int subtract(int a, int b) {
+        return 0;
+    }
+
+    public static int divide(int a, int b) {
+        return 0;
+    }
+
+    public static void main(String[] args) {
+        System.out.println("Calculator");
+    }
+}
